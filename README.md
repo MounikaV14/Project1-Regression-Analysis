@@ -1,6 +1,16 @@
+`'Motivation'`
+  Eventhough there are so many datasets that use complex algorithms to solve the real world problems, Regression is one of the classical approach to undertand a prediction problem. Here in this study we predict the price of houses using Melbourne dataset.
+
+`'Dataset'`
+The Melbourne Dataset used for the analysis can be found below:
 
 
 
+
+`'Libraries Used'`
+
+`'Link to the Blog Post'`
+https://medium.com/@mounidimple391/melbourne-dataset-house-price-prediction-using-regression-ca8654a707cf
 
 # Project1-Regression-Analysis
 ## Melbourne Dataset: House price prediction using Regression
