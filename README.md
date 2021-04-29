@@ -7,9 +7,7 @@ The Melbourne Dataset used for the analysis can be found in this respository wit
 `'Link to the Blog Post'`
 https://medium.com/@mounidimple391/melbourne-dataset-house-price-prediction-using-regression-ca8654a707cf
 
-`'About the project'`
-
-*****Libraries used in the project ******
+`'Libraries used in the project'`
 1. Numpy: NumPy is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices.
 2. Pandas: Python library used for data manipulation and anlysis
 3. Matplotlib: Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy.
